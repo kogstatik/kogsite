@@ -1,6 +1,6 @@
 ---
 this: thing
-new: file
+new: update
 ---
 How's this?
 
